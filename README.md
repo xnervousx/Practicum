@@ -1,2 +1,7 @@
 # Practicum
-Yandex Practicum Projects
+Yandex Practicum Data Analysis Projects / Проекты, выполненные в рамках обучения на курсе "Аналитика данных"
+-------------------------------
+Диплом о профессиональной переподготовке "Data Analyst"
+-------------------------------
+
+
