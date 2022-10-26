@@ -1,7 +1,7 @@
 ## Yandex.Practicum Data Analysis Projects
 Проекты, выполненные в рамках обучения на курсе "Аналитик данных" в Яндекс.Практикум         
 
-Диплом о профессиональной переподготовке ["Data Analyst"](http://handlebarsjs.com/)
+Диплом о профессиональной переподготовке ["Data Analyst"](https://github.com/xnervousx/Practicum/blob/main/Certificate_YandexDA.pdf)
 
 ### Проекты / Projects
 
